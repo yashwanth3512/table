@@ -1,0 +1,3 @@
+a="@%%#%^HYDERABAD%$^&&&*"
+b="".join(i for i in a if i.isalnum())
+print(b)
