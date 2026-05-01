@@ -1,0 +1,4 @@
+a="Manikanna i doing egg"
+b=a. find("fdjhdj")
+c=a. count("a")
+print(c)
