@@ -1,0 +1,10 @@
+class abc:
+    def set_dim(self,a,b,c):
+        self.total=a+b+c 
+    def display(self):
+        print(self.total)
+
+
+a=abc()
+a.set_dim(20,60,40)
+a.display()
